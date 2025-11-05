@@ -1,4 +1,4 @@
-# Vibe App Store
+# OpenWabi - AI app store - Generates apps in seconds & play them
 
 A Next.js application that generates AI-powered app ideas with custom thumbnails and interactive demos, styled with an iOS 6-inspired interface.
 
