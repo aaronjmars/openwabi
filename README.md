@@ -2,6 +2,10 @@
 
 A Next.js application that generates AI-powered app ideas with custom thumbnails and interactive demos, styled with an iOS 6-inspired interface.
 
+## See it in action
+
+[![OpenWabi Demo](https://i.imgur.com/cY9bQlm.png)](https://www.youtube.com/watch?v=oXBR5tED5NA)
+
 ## Features
 
 - **AI App Generation**: Generates 15 unique app concepts using Google's Gemini 2.5 Flash via OpenRouter
